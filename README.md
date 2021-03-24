@@ -1,5 +1,0 @@
-# realgoose.github.io
-
-
-
-welcome

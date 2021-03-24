@@ -1,14 +1,14 @@
 ## Welcome to Page of Frogs
 
 
-### frog of the day:
+### frog:
 
 ![frog](https://www.aquariumofpacific.org/images/exhibits/Magnificent_Tree_Frog_900.jpg)
 
 
 
 
-### frog fact of the day:
+### frog fact:
 
 "The world's largest frog is the goliath frog of West Africa—it can grow to 15 inches and weigh up to 7 pounds."
 

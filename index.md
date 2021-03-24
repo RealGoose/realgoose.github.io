@@ -1,33 +1,14 @@
 ## Welcome to Page of Frogs
 
-You can use the [editor on GitHub](https://github.com/RealGoose/realgoose.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### this website was created with no particular purpose in mind
 
-### Markdown
+frog of the day ![frog](https://www.aquariumofpacific.org/images/exhibits/Magnificent_Tree_Frog_900.jpg)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+frog fact of the day:
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
+"The world's largest frog is the goliath frog of West Africa—it can grow to 15 inches and weigh up to 7 pounds."
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/RealGoose/realgoose.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
